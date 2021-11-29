@@ -1,0 +1,39 @@
+#Kitchen Inventory
+This section discusses methods for storing __**fresh food**__.
+[Fruits and vegetables](Screen Shot 2021-11-29 at 11.14.35 AM.png)
+##Storing fruits
+**Tip:** Put avocados and bananas in a fruit bowl or paper bag. Do *not* keep them in the refrigerator.
+:avocado : banana
+Apples and oranges can be refrigerated. :apple :orange
+
+!Fruit! Color! Refrigerate?!
+:—! :—! :—!
+!avocados ! green! no!
+!bananas! yellow! no!
+!apples !red! yes!
+!oranges !orange !yes! 
+
+To learn more about fruits and vegetables, [click here](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/vegetables-and-fruits/).
+
+##Types of fruits and vegetables
+Fresh veggies and fruits are healthy and delicious.
+Vegetables
+*green beans
+*broccoli
+*okra
+
+Fruits
+1.) berries
+2.) apples
+3.) bananas
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/Avocado):
+>The avocado (peruses americana), a tree likely originating from south central Mexico, is classified as a member 
+>of the flowering plant family, Lauraceae. The fruit of the plant is botanically a large berry containing
+>a single large seed.
+
+**Note:** You can activate the avocado plugin (`com.sn_avocado`) if you have the `admin` role. After activating 
+the avocado plugin, you can active additional plugins such as `com.snc.citrus_fruit` and `com.snc.collard_greens`.
+
+###Recipes
+[Contact us]mail to: ginger.walker@clearskye.com for recipes.
